@@ -5,3 +5,6 @@ tqdm
 pypdf
 pymupdf
 pip
+sentence-transformers
+faiss-cpu
+chromadb
